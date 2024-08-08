@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WoozleActivity!</string>
+    <string name="app_name">Woozle</string>
+    
+    <string name="language_title">Choose a language</string>
+ 
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Chinese</item>
+       
+    </string-array>
+    
+</resources>

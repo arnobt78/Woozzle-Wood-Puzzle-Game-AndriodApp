@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/frame_android" >
+    
+    <ImageView
+	    android:id="@+id/app_name"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentTop="true"
+	    android:layout_centerHorizontal="true"
+	    android:layout_marginTop="5dp"
+	    android:layout_marginBottom="5dp"
+	    android:src="@drawable/settingstitle" />
+	
+	<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"	
+		android:layout_below="@id/app_name">	
+			    
+		<TableRow android:layout_width="fill_parent">
+			<RelativeLayout
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent">
+				
+				<ImageView
+				    android:id="@+id/back_button"
+				    android:layout_width="40dp"
+				    android:layout_height="40dp"
+				    android:layout_alignParentTop="true"
+				    android:layout_alignParentLeft="true"
+				    android:layout_marginTop="5dp"				    
+				    android:layout_marginBottom="5dp"
+				    android:layout_marginLeft="5dp"
+				    android:scaleType="fitXY"
+				    android:src="@drawable/arrow" />				
+				</RelativeLayout>
+		</TableRow>
+		
+		<TableRow android:layout_width="fill_parent">
+			<RelativeLayout
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent">
+				
+			<LinearLayout
+			    android:layout_width="wrap_content"
+			    android:layout_height="fill_parent"
+			    android:layout_centerHorizontal="true"
+			    android:orientation="horizontal">
+				
+				<ImageView
+				    android:id="@+id/music_icon"
+				    android:layout_width="40dp"
+				    android:layout_height="40dp"				       
+				    android:scaleType="fitXY"
+				    android:src="@drawable/musicnote" />
+				<ImageView
+				    android:id="@+id/music_text"
+				    android:layout_width="wrap_content"
+				    android:layout_height="36dp"				    				    				   
+				    android:scaleType="fitXY"
+				    android:src="@drawable/music" />
+				</LinearLayout>
+								
+				</RelativeLayout>
+		</TableRow>
+		
+				<TableRow android:layout_width="fill_parent"
+			android:layout_height="100dp" android:layout_marginBottom="10dp"
+			android:gravity="center">
+			<LinearLayout android:orientation="horizontal"
+				android:layout_width="fill_parent" android:layout_height="fill_parent"
+				android:gravity="center"
+				android:padding="10dp">
+				<CheckBox android:id="@+id/ch_speechenable"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:textSize="10pt"
+					android:textStyle="bold"
+					android:text="Reward Sound" 
+					android:textColor="@android:color/black" android:paddingLeft="40dp"
+					android:paddingRight="15dp" />
+			</LinearLayout>
+		</TableRow>
+		
+	</TableLayout>			
+</RelativeLayout>
