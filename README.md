@@ -6,4 +6,6 @@ This educational android game helps kids improve their memory and observation sk
 
 # Keywords
 
-Using Java Andriod. It is available in the Android Play Store.
+Using Android Java, XML, Android SDK.
+
+It is available in the Android Play Store.
