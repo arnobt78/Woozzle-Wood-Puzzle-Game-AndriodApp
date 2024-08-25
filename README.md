@@ -2,6 +2,8 @@
 ![name](https://github.com/user-attachments/assets/503a9906-277b-4499-ba1a-269cf9e676e3)
 ![splashscreen](https://github.com/user-attachments/assets/4ae51e98-3379-4195-b5aa-e73b049ef522)
 
+![ipad_cut_image_bee1](https://github.com/user-attachments/assets/aa6249b7-1685-47f8-bd26-9abe5e86c58c) ![ipad_cut_image_bee2](https://github.com/user-attachments/assets/430c7056-5e0e-4b62-94a2-9e52d9f26d8c) ![ipad_cut_image_bee3](https://github.com/user-attachments/assets/97aeff2f-c580-4463-acdf-65e9eee9239e) ![ipad_cut_image_bee4](https://github.com/user-attachments/assets/65ab4e98-76dc-4a39-adba-a4b1ba0d7b0d) ![ipad_cut_image_bee5](https://github.com/user-attachments/assets/6761a68e-d14b-4cdf-8030-f99ac97b90eb)
+
 ![settings_back](https://github.com/user-attachments/assets/3c801506-7757-476a-a0f5-0d60d731de5a)
 
 ![ipad_item100_full](https://github.com/user-attachments/assets/923b2e42-0cbb-4ade-b517-5d8c87fbdd56)
