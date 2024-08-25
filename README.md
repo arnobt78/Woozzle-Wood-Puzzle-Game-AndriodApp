@@ -1,10 +1,10 @@
 
 
-# Woozzlle-Game-AndriodApp
+## Woozzlle-Game-AndriodApp
 
 This educational android game helps kids improve their memory and observation skills by having them solve puzzles made of randomly placed photo parts.
 
-# Keywords
+## Keywords
 
 Using Android Java, XML, Android SDK.
 
