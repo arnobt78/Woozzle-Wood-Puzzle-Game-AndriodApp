@@ -15,10 +15,8 @@
 
 ## Woozzlle-Game-AndriodApp
 
-This educational android game helps kids improve their memory and observation skills by having them solve puzzles made of randomly placed photo parts.
+Woozzelle is an educational android game that helps kids improve their memory and observation skills by having them solve puzzles made of randomly placed photo parts. Available in the App Store.
 
 ## Keywords
 
 Using Android Java, XML, Android SDK.
-
-It is available in the Android Play Store.
